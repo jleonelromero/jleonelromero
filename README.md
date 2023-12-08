@@ -1,6 +1,5 @@
 # 💫 About Me:
-✅ ¡Hola! 👋 Mi nombre es Leonel.<br>✅ Soy una persona curiosa y proactiva. 🧐💪<br>✅ Soy un estudiante de ingeniería de sistemas. 🎓💻<br>✅ Estoy enfocado en obtener resultados y resolver problemas. 🎯🔧<br>✅ Siempre en busca de oportunidades para crecer y enfrentar desafíos. 🌱.
-
+✅ ¡Hola! 👋 Mi nombre es Leonel.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/GzA7NTTbSV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_leonelr_/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/leonelromero_1) 
